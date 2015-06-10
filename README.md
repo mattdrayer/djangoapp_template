@@ -1,0 +1,1 @@
+# djangoapp_template
